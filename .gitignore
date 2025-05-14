@@ -1,3 +1,12 @@
+# ignore all data files
+data/
+
+# ingore .DS_Store files
+.DS_Store
+
+# ignore .vscode settings
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
